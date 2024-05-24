@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    * {
+        --swiper-pagination-color: theme(colors.darken-jungle-green);
+    }
+
+    html {
+        scroll-behavior: smooth;
+    }
+
+    body {
+        @apply bg-ghost-white;
+    }
+
+    .max-container {
+        @apply mx-auto max-w-7xl px-5;
+    }
+}
