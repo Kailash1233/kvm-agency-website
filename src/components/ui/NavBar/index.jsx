@@ -19,9 +19,9 @@ function NavBar() {
                 <NavBrand
                     logoIcon={HeaderContent.brand.icon.src}
                     altLogoIcon={HeaderContent.brand.icon.alt}
-                    enableLogoText={HeaderContent.brand.text.enable}
-                    logoText={HeaderContent.brand.text.src}
-                    altLogoText={HeaderContent.brand.text.alt}
+                    // enableLogoText={HeaderContent.brand.text.enable}
+                    // logoText={HeaderContent.brand.text.src}
+                    // altLogoText={HeaderContent.brand.text.alt}
                 />
                 <LinkLists
                     highlightLink={{

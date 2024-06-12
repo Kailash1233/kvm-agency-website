@@ -14,10 +14,11 @@ function FooterBrand({
     return (
         <div className="flex flex-col items-center gap-5 px-0 sm:items-start sm:px-10 md:px-0">
             <div className="flex items-center gap-3.5">
-                <img src={logoIcon} alt={altLogoIcon} className="w-10" />
+                {/* <img src={logoIcon} alt={altLogoIcon} className="w-10" />
                 {enableLogoText && (
                     <img src={logoText} alt={altLogoText} className="w-16" />
-                )}
+                )} */}
+                <h1>KVM Agencies</h1>
             </div>
             <p className="text-center text-sm opacity-50 sm:text-left">
                 {children}

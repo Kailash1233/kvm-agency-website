@@ -398,7 +398,7 @@ import contactIllustration from "../assets/illustration/section-contact.svg";
 /* Content */
 const SECTION_CONTACT = {
     header: {
-        title: "Have a business problem?",
+        title: "Have a confusion in Raw Material Selection",
         description:
             "Just contact us without hesitation, we have a team of experts creates some exclusive ways to solve our customer's problems",
         sprite: { src: headerSprite, alt: "" },
