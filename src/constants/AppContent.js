@@ -466,29 +466,29 @@ import partnerItem6 from "../assets/partners/Agni500D.png";
 import partnerItem7 from "../assets/partners/jk.jpg";
 import partnerItem8 from "../assets/partners/ambuja.jpg";
 import partnerItem9 from "../assets/partners/ars.webp";
-import partnerItem10 from "../assets/partners/dell-2.svg";
+// import partnerItem10 from "../assets/partners/dell-2.svg";
 
-import partnerItem11 from "../assets/partners/benq-wordmark.svg";
-import partnerItem12 from "../assets/partners/samsung.svg";
-import partnerItem13 from "../assets/partners/kramer.svg";
-import partnerItem14 from "../assets/partners/maxhub.svg";
-import partnerItem15 from "../assets/partners/provent.svg";
-import partnerItem16 from "../assets/partners/jbl-by-harman-vector-logo.svg";
-import partnerItem17 from "../assets/partners/logitech-2-1.svg";
-import partnerItem18 from "../assets/partners/lg-electronics.svg";
-import partnerItem19 from "../assets/partners/matahari-led.png";
-import partnerItem20 from "../assets/partners/Unisign.svg";
+// import partnerItem11 from "../assets/partners/benq-wordmark.svg";
+// import partnerItem12 from "../assets/partners/samsung.svg";
+// import partnerItem13 from "../assets/partners/kramer.svg";
+// import partnerItem14 from "../assets/partners/maxhub.svg";
+// import partnerItem15 from "../assets/partners/provent.svg";
+// import partnerItem16 from "../assets/partners/jbl-by-harman-vector-logo.svg";
+// import partnerItem17 from "../assets/partners/logitech-2-1.svg";
+// import partnerItem18 from "../assets/partners/lg-electronics.svg";
+// import partnerItem19 from "../assets/partners/matahari-led.png";
+// import partnerItem20 from "../assets/partners/Unisign.svg";
 
-import partnerItem21 from "../assets/partners/sennheiser-3.svg";
-import partnerItem22 from "../assets/partners/Smart.svg";
-import partnerItem23 from "../assets/partners/ZYREX.svg";
-import partnerItem24 from "../assets/partners/epson-2.svg";
-import partnerItem25 from "../assets/partners/closepay.svg";
-import partnerItem26 from "../assets/partners/vmware-1.svg";
-import partnerItem27 from "../assets/partners/viewsonic-3.svg";
-import partnerItem28 from "../assets/partners/infocus.svg";
-import partnerItem29 from "../assets/partners/hewlett-packard-enterprise-logo.svg";
-import partnerItem30 from "../assets/partners/commscope.svg";
+// import partnerItem21 from "../assets/partners/sennheiser-3.svg";
+// import partnerItem22 from "../assets/partners/Smart.svg";
+// import partnerItem23 from "../assets/partners/ZYREX.svg";
+// import partnerItem24 from "../assets/partners/epson-2.svg";
+// import partnerItem25 from "../assets/partners/closepay.svg";
+// import partnerItem26 from "../assets/partners/vmware-1.svg";
+// import partnerItem27 from "../assets/partners/viewsonic-3.svg";
+// import partnerItem28 from "../assets/partners/infocus.svg";
+// import partnerItem29 from "../assets/partners/hewlett-packard-enterprise-logo.svg";
+// import partnerItem30 from "../assets/partners/commscope.svg";
 
 /* Content */
 const SECTION_PARTNERS = {
@@ -547,118 +547,118 @@ const SECTION_PARTNERS = {
                 logo: partnerItem9,
                 additionalClasses: null,
             },
-            {
-                name: "Dell",
-                logo: partnerItem10,
-                additionalClasses: "p-6",
-            },
+            // {
+            //     name: "Dell",
+            //     logo: partnerItem10,
+            //     additionalClasses: "p-6",
+            // },
         ],
         // * Slide: 2
-        [
-            {
-                name: "BENQ",
-                logo: partnerItem11,
-                additionalClasses: null,
-            },
-            {
-                name: "Samsung",
-                logo: partnerItem12,
-                additionalClasses: null,
-            },
-            {
-                name: "Kramer",
-                logo: partnerItem13,
-                additionalClasses: "p-6",
-            },
-            {
-                name: "Maxhub",
-                logo: partnerItem14,
-                additionalClasses: null,
-            },
-            {
-                name: "Provent",
-                logo: partnerItem15,
-                additionalClasses: null,
-            },
-            {
-                name: "JBL by Harman",
-                logo: partnerItem16,
-                additionalClasses: null,
-            },
-            {
-                name: "Logitech",
-                logo: partnerItem17,
-                additionalClasses: null,
-            },
-            {
-                name: "LG",
-                logo: partnerItem18,
-                additionalClasses: null,
-            },
-            {
-                name: "Matahari LED",
-                logo: partnerItem19,
-                additionalClasses: null,
-            },
-            {
-                name: "Unisign",
-                logo: partnerItem20,
-                additionalClasses: null,
-            },
-        ],
+        // [
+        //     {
+        //         name: "BENQ",
+        //         logo: partnerItem11,
+        //         additionalClasses: null,
+        //     },
+        //     {
+        //         name: "Samsung",
+        //         logo: partnerItem12,
+        //         additionalClasses: null,
+        //     },
+        //     {
+        //         name: "Kramer",
+        //         logo: partnerItem13,
+        //         additionalClasses: "p-6",
+        //     },
+        //     {
+        //         name: "Maxhub",
+        //         logo: partnerItem14,
+        //         additionalClasses: null,
+        //     },
+        //     {
+        //         name: "Provent",
+        //         logo: partnerItem15,
+        //         additionalClasses: null,
+        //     },
+        //     {
+        //         name: "JBL by Harman",
+        //         logo: partnerItem16,
+        //         additionalClasses: null,
+        //     },
+        //     {
+        //         name: "Logitech",
+        //         logo: partnerItem17,
+        //         additionalClasses: null,
+        //     },
+        //     {
+        //         name: "LG",
+        //         logo: partnerItem18,
+        //         additionalClasses: null,
+        //     },
+        //     {
+        //         name: "Matahari LED",
+        //         logo: partnerItem19,
+        //         additionalClasses: null,
+        //     },
+        //     {
+        //         name: "Unisign",
+        //         logo: partnerItem20,
+        //         additionalClasses: null,
+        //     },
+        // ],
         // * Slide: 3
-        [
-            {
-                name: "Sennheiser",
-                logo: partnerItem21,
-                additionalClasses: null,
-            },
-            {
-                name: "Smart",
-                logo: partnerItem22,
-                additionalClasses: null,
-            },
-            {
-                name: "ZYRX",
-                logo: partnerItem23,
-                additionalClasses: null,
-            },
-            {
-                name: "Epson",
-                logo: partnerItem24,
-                additionalClasses: null,
-            },
-            {
-                name: "Closepay",
-                logo: partnerItem25,
-                additionalClasses: null,
-            },
-            {
-                name: "VMWare",
-                logo: partnerItem26,
-                additionalClasses: null,
-            },
-            {
-                name: "View Sonic",
-                logo: partnerItem27,
-                additionalClasses: null,
-            },
-            {
-                name: "In Focus",
-                logo: partnerItem28,
-                additionalClasses: null,
-            },
-            {
-                name: "Hewlett Packard Enterprise",
-                logo: partnerItem29,
-                additionalClasses: null,
-            },
-            {
-                name: "Commscope AMP Netconnect",
-                logo: partnerItem30,
-                additionalClasses: null,
-            },
-        ],
+        // [
+        //     {
+        //         name: "Sennheiser",
+        //         logo: partnerItem21,
+        //         additionalClasses: null,
+        //     },
+        //     {
+        //         name: "Smart",
+        //         logo: partnerItem22,
+        //         additionalClasses: null,
+        //     },
+        //     {
+        //         name: "ZYRX",
+        //         logo: partnerItem23,
+        //         additionalClasses: null,
+        //     },
+        //     {
+        //         name: "Epson",
+        //         logo: partnerItem24,
+        //         additionalClasses: null,
+        //     },
+        //     {
+        //         name: "Closepay",
+        //         logo: partnerItem25,
+        //         additionalClasses: null,
+        //     },
+        //     {
+        //         name: "VMWare",
+        //         logo: partnerItem26,
+        //         additionalClasses: null,
+        //     },
+        //     {
+        //         name: "View Sonic",
+        //         logo: partnerItem27,
+        //         additionalClasses: null,
+        //     },
+        //     {
+        //         name: "In Focus",
+        //         logo: partnerItem28,
+        //         additionalClasses: null,
+        //     },
+        //     {
+        //         name: "Hewlett Packard Enterprise",
+        //         logo: partnerItem29,
+        //         additionalClasses: null,
+        //     },
+        //     {
+        //         name: "Commscope AMP Netconnect",
+        //         logo: partnerItem30,
+        //         additionalClasses: null,
+        //     },
+        // ],
     ],
 };
 
