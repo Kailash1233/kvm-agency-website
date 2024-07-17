@@ -135,7 +135,9 @@ const FOOTER = {
 // ========================================================
 
 /* Assets Import */
-import imageShowcase from "../assets/img/KVM.jpeg";
+// import imageShowcase from "../assets/img/KVM.jpeg";
+import imageShowcase2 from "../assets/img/KVM1.jpeg";
+import imageShowcase3 from "../assets/img/kvm1.png";
 
 /* Content */
 const SECTION_HERO = {
@@ -143,11 +145,23 @@ const SECTION_HERO = {
     paragraph:
         "We provide a comprehensive range of top-quality raw materials for all your construction needs. From cement and sand to bricks and steel, we ensure you have everything you need to build strong, durable structures. With a commitment to quality and customer satisfaction, we are your reliable partner in construction.",
     linkText: "Discover more about us",
-    imageShowcase: {
-        src: imageShowcase,
-        alt: "Naveen M R, CEO, KVM Agencies",
-        href: "",
-    }
+    imageShowcase: [
+        // {
+        //     src: imageShowcase,
+        //     alt: "Naveen M R, CEO, KVM Agencies",
+        //     href: "",
+        // },
+        {
+            src: imageShowcase3,
+            alt: "Naveen M R, CEO, KVM Agencies",
+            href: "",
+        },
+        {
+            src: imageShowcase2,
+            alt: "Naveen M R, CEO, KVM Agencies",
+            href: "",
+        },
+    ],
 };
 
 // ========================================================
