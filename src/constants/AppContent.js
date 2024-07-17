@@ -16,12 +16,12 @@ const HEADER = {
     brand: {
         icon: {
             src: brandIcon,
-            alt: "A regal crown design representing DKSI, with intricate details and a majestic presence.",
+            alt: "",
         },
         text: {
             enable: true,
             src: brandText,
-            alt: 'A black and white image of the letters "DKSI" written in a bold font on a plain background.',
+            alt: '',
         },
     },
     links: [
@@ -56,12 +56,12 @@ const FOOTER = {
     brand: {
         icon: {
             src: brandIcon,
-            alt: "A regal crown design representing DKSI, with intricate details and a majestic presence.",
+            alt: "",
         },
         text: {
             enable: true,
             src: brandTextWhite,
-            alt: 'A black and white image of the letters "DKSI" written in a bold font on a plain background.',
+            alt: 'A black and white image',
         },
         description:
             "At KVM Agencies, we believe in the transformative power of collaboration.",
@@ -123,7 +123,7 @@ const FOOTER = {
         logo: {
             enable: true,
             src: brandIcon,
-            alt: "A regal crown design representing DKSI, with intricate details and a majestic presence.",
+            alt: "",
         },
         name: "KVM Agencies",
         text: "Copyrights © 2024. All rights reserved.",
@@ -139,15 +139,17 @@ import imageShowcase from "../assets/img/KVM.jpeg";
 
 /* Content */
 const SECTION_HERO = {
-    tagline: ["We will be your Beam", "for your Dream"],
+    tagline: ["A complete building solution", "for your Dream"],
     paragraph:
         "We provide a comprehensive range of top-quality raw materials for all your construction needs. From cement and sand to bricks and steel, we ensure you have everything you need to build strong, durable structures. With a commitment to quality and customer satisfaction, we are your reliable partner in construction.",
     linkText: "Discover more about us",
-    imageShowcase: {
-        src: imageShowcase,
-        alt: "Muhammad Yasin, CEO of DKSI, achieved Diktistek's Best Partner award.",
-        href: "https://soloaja.co/read/muhammad-yasin-pengusaha-muda-semarang-raih-anugerah-mitra-terbaik-diktiristek",
-    },
+    imageShowcase: [
+        {
+            src: imageShowcase,
+            alt: "Naveen M R, CEO, KVM Agencies",
+            href: "",
+        },
+    ],
 };
 
 // ========================================================
