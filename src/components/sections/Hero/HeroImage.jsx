@@ -6,7 +6,7 @@ function HeroImage({ href, img, alt }) {
             <img
                 src={`${img}`}
                 alt={alt}
-                className="w-full drop-shadow-[0_30px_80px_rgba(0,0,0,0.1)]"
+                className="w-full rounded-3xl drop-shadow-[0_30px_80px_rgba(0,0,0,0.1)]"
             />
         </a>
     );
